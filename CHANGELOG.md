@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.108](https://github.com/MarcoIeni/release-plz/compare/release-plz-v0.3.107...release-plz-v0.3.108) - 2024-11-09
+
+### Other
+
+- remove async_trait ([#1824](https://github.com/MarcoIeni/release-plz/pull/1824))
+
 ## [0.3.107](https://github.com/MarcoIeni/release-plz/compare/release-plz-v0.3.106...release-plz-v0.3.107) - 2024-11-08
 
 ### Added
